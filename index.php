@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Silence
-Description: Désactiver les mails des mises à jours.
+Description: Désactiver les mails de mises à jours.
 Version: 1.0
 Author: Lahrim
 Author URI: https://github.com/lahrim/silence
